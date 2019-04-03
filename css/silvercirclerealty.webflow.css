@@ -968,6 +968,7 @@
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
+  padding-right: 2px;
   -webkit-box-orient: horizontal;
   -webkit-box-direction: normal;
   -webkit-flex-direction: row;
